@@ -8,6 +8,7 @@ The passwords.txt file that is a companion to this script is spefically designed
 
 # Dependency:
 Python3
+
 pyzipper - See this documentation to install: https://pypi.org/project/pyzipper/
 
 # Usage: 
