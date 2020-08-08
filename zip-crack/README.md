@@ -12,7 +12,10 @@ Python3
 pyzipper - See this documentation to install: https://pypi.org/project/pyzipper/
 
 # Usage: 
+
+```sh
 python3 zip-crack.py -f EVILZIP.zip -d passwords.txt
+```
 
 # Acknowledgments: 
 Special thanks to @AbsoZed, becuase I borrowed some of his code. 
