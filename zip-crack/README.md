@@ -14,7 +14,12 @@ pyzipper - See this documentation to install: https://pypi.org/project/pyzipper/
 # Usage: 
 
 ```sh
+for v1
 python3 zip-crack.py -f EVILZIP.zip -d passwords.txt
+
+for v2
+dictionary METHOD: "python3 zip-crack.py -f '<FILENAME>.zip' -d -p passwords.txt"
+regex METHOD: "python3 zip-crack.py -f '<FILENAME>.zip' -r"
 ```
 
 # Acknowledgments: 
