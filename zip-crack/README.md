@@ -15,7 +15,7 @@ pyzipper - See this documentation to install: https://pypi.org/project/pyzipper/
 
 ```sh
 for v1
-python3 zip-crack.py -f EVILZIP.zip -d passwords.txt
+python3 zip-crack_v1.py -f EVILZIP.zip -d passwords.txt
 
 for v2
 dictionary METHOD: "python3 zip-crack.py -f '<FILENAME>.zip' -d -p passwords.txt"
