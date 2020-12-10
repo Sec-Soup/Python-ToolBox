@@ -6,6 +6,8 @@ The dictionary file passed as an argument can be whatever the user chooses. pass
 
 The passwords.txt file that is a companion to this script is spefically designed for crimeware variants such as BokBot, Valak, Ursnif, and Dridex that are often delivered as ZIP archives.
 
+Original zip-crack_v1 version is provided as it is faster if the regex method is unnecessary. 
+
 # Dependency:
 Python3
 
