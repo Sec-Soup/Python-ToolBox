@@ -29,4 +29,4 @@ python3 zip-crack.py -f '<FILENAME>.zip' -r
 ```
 
 # Acknowledgments: 
-Special thanks to @AbsoZed, becuase I borrowed some of his code. 
+Special thanks to @HBRH_314, becuase I borrowed some of his code. 
